@@ -40,8 +40,8 @@ jobs:
                   txt = idx.read_text(encoding='utf-8')
               except (OSError, UnicodeDecodeError):
                   continue
-              out = txt.replace('<!-- ded0996d45ae1b6987 -->', k1) if k1 else txt
-              out = out.replace('<!--  -->', k2) if k2 else out
+              out = txt.replace('<!-- 88e009a24729925906 -->', k1) if k1 else txt
+              out = out.replace('<!-- ea4ab0c67e8174d063cace5a66868160ec15 -->', k2) if k2 else out
               if out != txt:
                   idx.write_text(out, encoding='utf-8')
                   done += 1
